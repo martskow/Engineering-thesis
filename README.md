@@ -9,7 +9,7 @@ This repository contains materials related to the engineering thesis titled "Des
 
 To repozytorium zawiera materiały związane z pracą inżynierską pt. "Projektowanie peptydów amyloidogennych z wykorzystaniem sieci neuronowych". Celem projektu było stworzenie oprogramowania, które będzie proponować modyfikacje peptydów w celu otrzymania pożądanych cech fizykochemicznych, przy zachowaniu struktury przestrzennej warunkującej agregację. Dodatkowo w pracy zostały wykorzystane techniki uczenia maszynowego, w głównej mierze sieci transformer, aby efektywnie sugerować te modyfikacje i ich wpływ na właściwości peptydów. Repozytorium zawiera:
 
-* Notatniki Jupyter z kodem źródłowym
-* Wytrenowane modele,,
+* Notatniki Jupyter z kodem źródłowym,
+* Wytrenowane modele,
 * Pliki z wynikami i danymi uczącymi,
 * Wykresy ilustrujące wyniki eksperymentów i analizy.
